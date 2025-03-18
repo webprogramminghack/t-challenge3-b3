@@ -126,23 +126,13 @@ npm run test
 
 The evaluation for this challenge is based on the following four criteria:
 
-### 1. Logic
+### 1. Requirement Fulfillment & Correctness
 
-### 2. Clean Code
+### 2. Javascript Usage
 
-### 3. Correctness
+### 3. Problem Solving Approach
 
-### 4. Readability
-
----
-
-# Challenges
-
-There are two challenges in this competition:
-
-### Challenge 1: Maximum score of 50 points
-
-### Challenge 2: Maximum score of 50 points
+### 4. Code Clarity
 
 ---
 
